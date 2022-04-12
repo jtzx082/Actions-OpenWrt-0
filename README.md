@@ -8,6 +8,8 @@
 
 A template for building OpenWrt with GitHub Actions
 
+## 在本Actions-openwrt中编译的固件包含的插件有：ssrplus、多线多拨、动态dns等常见插件；本固件继承了常用的主题。默认登录地址：192.168.1.1，账号：root 密码：password
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
